@@ -3,7 +3,7 @@
     "repo": "https://github.com/GeneralInfluence/JobHunter.git",
     "lastSynced": "2026-06-11T00:58:14.821Z",
     "totalApplications": 65,
-    "lastUpdated": "2026-06-11T00:58:14.820Z"
+    "lastUpdated": "2026-06-11T01:20:55.099Z"
   },
   "applications": [
     {
@@ -724,16 +724,16 @@
     },
     {
       "id": "chris-mendez-ai-guitar-ethdenver-2025",
-      "company": "Chris Mendez",
-      "role": "AI Voice & Guitar Effects Engine (RaidGuild Proposal)",
+      "company": "Chris Mendez / WOWL.io",
+      "role": "AI Music & Physical AI Collaboration (RaidGuild)",
       "url": null,
       "appliedDate": "2026-02-28T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
       "status": "pending",
       "type": "raidguild-proposal",
-      "contact": "Chris Mendez",
-      "notes": "Met at ETH Denver Feb 2026. Chris is building an AI-powered voice and guitar effects engine. RaidGuild would handle prototype and full build. Estimated opportunity: $20k–$50k prototype + $75k–$200k full build + ongoing AI training costs. (From RaidGuild ETH Denver BD Summary)"
+      "contact": "Chris Mendez (@xchrismx / X X on TG)",
+      "notes": "Met at ETH Denver Feb 2026. Chris introduced WOWL.io. Mutual follow-up relationship — Sean shared music/tech content, Chris engaged positively. Chris co-wrote a song with Surfbort (released Mar 4, 2026). In May 2026, Chris shared Haptic Labs \"Festivus\" — an open-source Physical AI robotics data platform. Contact is warm and ongoing; no formal proposal issued yet. Potential collaboration on AI music/voice tooling or Physical AI integrations through RaidGuild. (From ETH Denver BD Summary: $20k–$50k prototype + $75k–$200k full build estimated if proposal moves forward)"
     },
     {
       "id": "graven-public-goods-ethdenver-2025",
