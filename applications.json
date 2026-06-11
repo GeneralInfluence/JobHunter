@@ -1,9 +1,9 @@
 {
   "metadata": {
     "repo": "https://github.com/GeneralInfluence/JobHunter.git",
-    "lastSynced": "2026-06-10T23:58:10.350Z",
-    "totalApplications": 61,
-    "lastUpdated": "2026-06-11T00:52:11.631Z"
+    "lastSynced": "2026-06-11T00:58:14.821Z",
+    "totalApplications": 65,
+    "lastUpdated": "2026-06-11T00:58:14.820Z"
   },
   "applications": [
     {
@@ -538,7 +538,7 @@
       "status": "pending",
       "type": "raidguild-proposal",
       "contact": "Nick (Livepeer)",
-      "notes": "Met Nick at DevConnect BA (Nov 2025). Discussed cohort pricing: 3 guild members x 3hrs/day x 7 days x 00/hr = ~300 min, ~0k-0k/cohort fully loaded. RaidGuild reportedly already won a Livepeer bid (mentioned in Haus BA group chat). Sean wanted follow-up call for ETH Denver. Needs re-engage to confirm bid status and next steps."
+      "notes": "Met Nick at DevConnect BA (Nov 2025). Discussed Cohort-as-a-Service (CaaS) pricing: ~$6,300 minimum per cohort, ~$20k-$50k fully loaded. Context: RaidGuild invited Livepeer to the web0 hackathon where RaidGuild provides CaaS and advisory services to startups. Livepeer is the main sponsor of web0. RaidGuild also reportedly won a separate Livepeer bid. Follow-up scheduled for ETH Denver. Sean wanted RaidGuild house next to web0 hacker house."
     },
     {
       "id": "hope-clary-devconnect-2024",
@@ -577,7 +577,7 @@
       "status": "warm-no-budget",
       "type": "raidguild-proposal",
       "contact": "Petra (@petrafran) — Precog / Continuous Markets",
-      "notes": "Met at DevConnect BA. Precog is a prediction market protocol (any token as collateral, no order books). Launched new version March 2026. Sean pitched RaidGuild cohort sponsorship k/mo (or 50/50 cash/equity). Petra interested but bootstrapped — no budget. Offered to make referrals to other companies needing product feedback. Petra in SF. Wrote article on synthetic testing. Potential future client; keep warm."
+      "notes": "Met at DevConnect BA. @OxMarto (Marto) initially engaged, then referred Sean to partner @petrafran (Petra) for continuous markets discussions (Dec 2025). Petra engaged — Precog launched new prediction market protocol (March 2026). Sean pitched RaidGuild cohort sponsorship $5k/mo or 50/50 cash/equity. Petra interested but bootstrapped, no budget. Potential future client; offered referrals to SF companies needing product feedback. From ETH Denver BD Summary: $5k-$10k/mo sponsorship potential long-term."
     },
     {
       "id": "fintradex-parachain-devconnect-2024",
@@ -590,7 +590,7 @@
       "status": "pending",
       "type": "raidguild-proposal",
       "contact": "@Zafer8",
-      "notes": "Met at DevConnect Buenos Aires. ZK decentralized parachain. Whitepaper available at GitHub. Source: DevConnect BA 2024."
+      "notes": "Met Zaf (@Zafer8) at DevConnect Buenos Aires (Nov 2025). Discussed ZK order book collaboration. Fintradex is building a decentralized ZK parachain — whitepaper: https://github.com/fintradev/fintradex/blob/main/docs/Fintradex_Parachain_%20Technical_Architecture_Whitepaper.pdf. Sean initiated follow-up about ZK order book rabbit hole (Dec 2025). Multiple follow-up pings sent (Dec 2025). No response received."
     },
     {
       "id": "polytop-labs-zk-bridges-devconnect-2024",
@@ -647,20 +647,20 @@
     {
       "id": "blue-vault-will-proposal",
       "company": "Blue Vault",
-      "role": "Project Collaboration (RaidGuild)",
-      "url": null,
+      "role": "Security & Compliance Architecture (RaidGuild Proposal)",
+      "url": "https://hackmd.io/@gDWa6GslSWiYhiAAk5Eg4Q/SJYo0o7wbg",
       "appliedDate": null,
       "appliedVia": "raidguild",
       "emailTo": null,
       "status": "pending",
       "type": "raidguild-proposal",
       "contact": "Will / @zoltharosco",
-      "notes": "In-between DevConnect and ETH Denver. Details TBD — check Telegram/email for context."
+      "notes": "RaidGuild proposal to build a new security and compliance layer for Blue Vault, a political campaign donations platform. Proposal covers: Policy Engine (RBAC/ABAC), Secrets Adapter (GCP Secret Manager), Webhook Verification, Tamper-evident Ledger, PII Encryption, OFAC Screening, AML Risk Engine, DSAR Service, and Retention Jobs. Compliance mapping: BSA, SOC2, CCPA/CPRA, OFAC, 16 CFR Part 314, FTC Act §5. Full architecture documented in proposal. Contact met at ETH Denver 2026."
     },
     {
       "id": "allejandro-catering-ethdenver-2025",
-      "company": "Allejandro Catering",
-      "role": "Project Collaboration (RaidGuild)",
+      "company": "Alejandro Martinez",
+      "role": "AI Order-Management Assistant for Catering & Restaurants (RaidGuild Proposal)",
       "url": null,
       "appliedDate": "2025-02-28T00:00:00Z",
       "appliedVia": "raidguild",
@@ -668,7 +668,7 @@
       "status": "cold",
       "type": "raidguild-proposal",
       "contact": "Alejandro Martinez (@Alej14and14ro)",
-      "notes": "ETH Denver Feb 2026. Sean pitched AI Agents for catering + donation provenance. Alejandro was at the conference BBQ (crowd was huge). Sean followed up Feb 23 about getting together to discuss agent solutions for catering/restaurants. No response. Cold — may need different angle or re-engage at next event."
+      "notes": "Met at ETH Denver Feb 2026. Alejandro owns a high-volume catering and restaurant business receiving hundreds of order emails daily. Sean proposed an AI-powered system to triage incoming emails, identify real leads, and handle back-and-forth with customers to gather order requirements. Also discussed donation provenance. Estimated opportunity: $20k–$60k build + $1k–$5k/mo maintenance (from RaidGuild ETH Denver BD Summary). No response after Feb 23 follow-up. Status: cold/no response."
     },
     {
       "id": "dial-ethdenver-2025",
@@ -681,7 +681,7 @@
       "status": "pending-follow-up",
       "type": "raidguild-proposal",
       "contact": "@redrumguerrilla — DIAL",
-      "notes": "ETH Denver 2026. Sean pitched k cohort sponsorship (April 2026). Deliverables doc shared: https://docs.google.com/document/d/1CMXmLmEyR38apKrqcybfwsFTkaFhpMWukg8Hvh5-2Dk/edit — Pinata offered as reference (they sponsored March cohort). No response since May 5 check-in. Needs follow-up."
+      "notes": "ETH Denver 2026. Dial is a wallet-native video platform. Sean pitched RaidGuild cohort sponsorship ($5k/mo April 2026) — RaidGuild builds using Dial tech, delivers comprehensive midway and final reports. Deliverables doc: https://docs.google.com/document/d/1CMXmLmEyR38apKrqcybfwsFTkaFhpMWukg8Hvh5-2Dk/edit. Pinata offered as reference (sponsored March cohort). From BD Summary: $5k–$10k/mo sponsorship + $10k–$40k integrations potential. No response since May 5 follow-up check-in."
     },
     {
       "id": "superconductor-pokt-bridge-ethdenver-2025",
@@ -708,6 +708,58 @@
       "type": "raidguild-proposal",
       "contact": "Matt / @mattober — Pinata",
       "notes": "Met Matt at ETH Denver 2026 (Feb 2026). Pinata ALREADY SPONSORED March 2026 RaidGuild cohort. Active relationship. Sean is building a BD Template for Pinata Marketplace (CRM/lead verification bot). April 2026 discussions about expanding Pinata Agents into cohorts — Dark Factory, Paperclip, 8004, x402, Knowledge Graphs/DAGs. Sean gave feedback on cost management, branding, memory, payments. Ongoing active partnership."
+    },
+    {
+      "id": "ariaz-real-estate-tokenization-ethdenver-2025",
+      "company": "Ariaz",
+      "role": "Real Estate Fund Tokenization (RaidGuild Proposal)",
+      "url": null,
+      "appliedDate": "2026-02-28T00:00:00Z",
+      "appliedVia": "raidguild",
+      "emailTo": null,
+      "status": "pending",
+      "type": "raidguild-proposal",
+      "contact": null,
+      "notes": "Met at ETH Denver Feb 2026. Ariaz represents a private real estate investment fund seeking to tokenize its structure so retail investors gain financial exposure without voting rights. Goal: unlock liquidity for large investors while expanding retail access. Requires tokenized securities and internal operational tooling for officer sign-offs and compliance. Estimated opportunity: $20k–$30k consulting (Phase 1) + $75k–$200k development (Phase 2) + ongoing maintenance. RaidGuild would handle: due diligence, legal/technical structuring, security token smart contracts, officer approval tools. Positions RaidGuild in RWA/REIT tokenization market. (From RaidGuild ETH Denver BD Summary)"
+    },
+    {
+      "id": "chris-mendez-ai-guitar-ethdenver-2025",
+      "company": "Chris Mendez",
+      "role": "AI Voice & Guitar Effects Engine (RaidGuild Proposal)",
+      "url": null,
+      "appliedDate": "2026-02-28T00:00:00Z",
+      "appliedVia": "raidguild",
+      "emailTo": null,
+      "status": "pending",
+      "type": "raidguild-proposal",
+      "contact": "Chris Mendez",
+      "notes": "Met at ETH Denver Feb 2026. Chris is building an AI-powered voice and guitar effects engine. RaidGuild would handle prototype and full build. Estimated opportunity: $20k–$50k prototype + $75k–$200k full build + ongoing AI training costs. (From RaidGuild ETH Denver BD Summary)"
+    },
+    {
+      "id": "graven-public-goods-ethdenver-2025",
+      "company": "Graven",
+      "role": "Public Goods Funding — GoodDollar & Octant (RaidGuild)",
+      "url": null,
+      "appliedDate": "2026-02-28T00:00:00Z",
+      "appliedVia": "raidguild",
+      "emailTo": null,
+      "status": "pending",
+      "type": "raidguild-proposal",
+      "contact": "Graven",
+      "notes": "Met at ETH Denver Feb 2026. BD collaboration around public goods funding via GoodDollar and Octant grant programs. Estimated opportunity: $5k–$50k in grants with recurring quarterly/annual opportunities. (From RaidGuild ETH Denver BD Summary)"
+    },
+    {
+      "id": "nick-hollins-gtm-evro-2026",
+      "company": "Nick Hollins GTM",
+      "role": "GTM & Liquidity Strategy for EVRO (RaidGuild)",
+      "url": null,
+      "appliedDate": "2026-04-02T00:00:00Z",
+      "appliedVia": "raidguild",
+      "emailTo": null,
+      "status": "pending",
+      "type": "raidguild-proposal",
+      "contact": "Nick Hollins",
+      "notes": "Nick Hollins co-founded a GTM firm with Alexander Guy (former growth lead at Zerion). Sean reached out April 2026 to explore whether their firm could help drive liquidity into EVRO (Gnosis stablecoin). Nick said he would run it by Alex. Status: awaiting response. Note: this is a different Nick than the Livepeer contact from DevConnect BA."
     }
   ]
 }
