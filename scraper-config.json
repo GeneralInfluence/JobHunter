@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2026-05-11T21:31:00Z",
+    "description": "Configuration for automated job scraping across multiple Web3 job boards"
+  },
+  "jobBoards": [
+    {
+      "name": "web3.career",
+      "baseUrl": "https://web3.career",
+      "searchEndpoints": [
+        "/dev+remote-jobs",
+        "/product-manager+remote-jobs",
+        "/developer-relations+remote-jobs",
+        "/ui-ux-designer-jobs",
+        "/full-stack+remote-jobs"
+      ],
+      "selectors": {
+        "jobTitle": "h2",
+        "jobContainer": "div[class*='mb']",
+        "companyLink": "a[href*='/web3-companies/']",
+        "applyLink": "a[href*='/i/']"
+      },
+      "pagination": {
+        "enabled": true,
+        "loadMore": "button[class*='load-more']"
+      }
+    },
+    {
+      "name": "cryptojobslist.com",
+      "baseUrl": "https://cryptojobslist.com",
+      "searchEndpoints": [
+        "/remote",
+        "/developer",
+        "/product-management",
+        "/devrel",
+        "/ui-ux"
+      ],
+      "selectors": {
+        "jobTitle": "h2, h3",
+        "jobContainer": "article, div[class*='job-card']",
+        "companyName": "a[class*='company']",
+        "applyLink": "a[href*='apply']"
+      }
+    },
+    {
+      "name": "remote3.co",
+      "baseUrl": "https://www.remote3.co",
+      "searchEndpoints": [
+        "/?search=developer&remote=true",
+        "/?search=product+manager&remote=true",
+        "/?search=devrel&remote=true"
+      ],
+      "selectors": {
+        "jobTitle": "h2, h3",
+        "jobContainer": "div[class*='job']",
+        "companyName": "span[class*='company']"
+      }
+    }
+  ],
+  "scrapingRules": {
+    "maxJobsPerBatch": 30,
+    "salaryFloor": 80000,
+    "locations": ["Remote", "Reno, NV"],
+    "ignoreKeywords": ["intern", "junior", "entry-level"],
+    "priorityKeywords": ["senior", "staff", "lead", "director"]
+  },
+  "outputFormat": "batch-NNN-pending-approval.json",
+  "scheduling": {
+    "frequency": "weekly",
+    "dayOfWeek": "Monday",
+    "timeUTC": "21:00",
+    "description": "Run automated job scraping at fixed time to maintain fresh job list"
+  }
+}

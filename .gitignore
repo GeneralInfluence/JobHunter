@@ -1,0 +1,11 @@
+# OAuth credentials & tokens — never commit these
+oauth-credentials.json
+gmail-token.json
+client_secret_*.json
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local

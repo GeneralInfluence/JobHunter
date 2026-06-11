@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "createdAt": "2026-05-12T21:45:00.000Z",
+    "source": "Bitpanda Greenhouse (Official Careers)",
+    "totalJobs": 10,
+    "techRoles": 10,
+    "allEmailApply": true,
+    "notes": "Verified live jobs from https://job-boards.eu.greenhouse.io/bitpanda — all email to careers@bitpanda.com"
+  },
+  "jobs": [
+    {
+      "jobId": "BP-001",
+      "company": "Bitpanda",
+      "role": "Senior Software Engineer, Golang (Bitpanda Enterprise)",
+      "location": "Bucharest, Romania",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4326990101",
+      "applyMethod": "email",
+      "applyTarget": "careers@bitpanda.com",
+      "matchScore": "HIGH",
+      "relevance": ["Go/Golang", "Senior level", "Enterprise systems"]
+    },
+    {
+      "jobId": "BP-002",
+      "company": "Bitpanda",
+      "role": "Senior Software Engineer, Angular (B2C Web Platform)",
+      "location": "Barcelona, Spain",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4778778101",
+      "applyMethod": "email",
+      "applyTarget": "careers@bitpanda.com",
+      "matchScore": "HIGH",
+      "relevance": ["Angular", "React/TypeScript adjacent", "Web3 fintech"]
+    },
+    {
+      "jobId": "BP-003",
+      "company": "Bitpanda",
+      "role": "Senior Software Engineer, React (Broker Web Platform)",
+      "location": "Barcelona, Spain",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4794682101",
+      "applyMethod": "email",
+      "applyTarget": "careers@bitpanda.com",
+      "matchScore": "VERY HIGH",
+      "relevance": ["React", "Your core skill", "Broker platform (financial)"]
+    },
+    {
+      "jobId": "BP-004",
+      "company": "Bitpanda",
+      "role": "Software Engineer, Java (OpsHub)",
+      "location": "Barcelona, Spain",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4806153101",
+      "applyMethod": "email",
+      "applyTarget": "careers@bitpanda.com",
+      "matchScore": "MEDIUM-HIGH",
+      "relevance": ["Backend systems", "Operations", "Web3 infrastructure"]
+    },
+    {
+      "jobId": "BP-005",
+      "company": "Bitpanda",
+      "role": "Software Engineer, Java (Digital Asset Systems)",
+      "location": "Vienna, Austria",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4390515101",
+      "applyMethod": "email",
+      "applyTarget": "careers@bitpanda.com",
+      "matchScore": "MEDIUM-HIGH",
+      "relevance": ["Backend", "Crypto asset handling", "Enterprise systems"]
+    },
+    {
+      "jobId": "BP-006",
+      "company": "Bitpanda",
+      "role": "Senior Software Engineer, Java (Trade Hub)",
+      "location": "Vienna, Austria",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4337985101",
+      "applyMethod": "email",
+      "applyTarget": "careers@bitpanda.com",
+      "matchScore": "MEDIUM-HIGH",
+      "relevance": ["Java", "Trading systems", "Financial infrastructure"]
+    },
+    {
+      "jobId": "BP-007",
+      "company": "Bitpanda",
+      "role": "Senior Software Engineer, Python (Asset Pricing & Hedging)",
+      "location": "Vienna, Austria",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4518804101",
+      "applyMethod": "email",
+      "applyTarget": "careers@bitpanda.com",
+      "matchScore": "MEDIUM",
+      "relevance": ["Python", "Quantitative finance", "Your 23yr experience"]
+    },
+    {
+      "jobId": "BP-008",
+      "company": "Bitpanda",
+      "role": "Senior Software Engineer, Python (Asset Pricing & Hedging)",
+      "location": "Barcelona, Spain",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4592742101",
+      "applyMethod": "email",
+      "applyTarget": "careers@bitpanda.com",
+      "matchScore": "MEDIUM",
+      "relevance": ["Python", "Quantitative finance", "Barcelona location"]
+    },
+    {
+      "jobId": "BP-009",
+      "company": "Bitpanda",
+      "role": "Senior Software Engineer, Python (Asset Pricing & Hedging)",
+      "location": "Bucharest, Romania",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4675230101",
+      "applyMethod": "email",
+      "applyTarget": "careers@bitpanda.com",
+      "matchScore": "MEDIUM",
+      "relevance": ["Python", "Quantitative", "Remote-friendly location"]
+    },
+    {
+      "jobId": "BP-010",
+      "company": "Bitpanda",
+      "role": "Senior, Design System Designer",
+      "location": "Vienna, Austria",
+      "url": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4679671101",
+      "applyMethod": "email",
+      "applyTarget": "careers@bitpanda.com",
+      "matchScore": "MEDIUM",
+      "relevance": ["Design systems", "10yr product design experience", "Web3 fintech"]
+    }
+  ],
+  "topMatches": [
+    "BP-003: Senior Software Engineer, React (Barcelona) — VERY HIGH match (your core skill)",
+    "BP-002: Senior Software Engineer, Angular (Barcelona) — HIGH match (adjacent to React)",
+    "BP-001: Senior Software Engineer, Golang (Bucharest) — HIGH match (backend, senior)"
+  ],
+  "approvalStatus": "READY TO APPLY"
+}

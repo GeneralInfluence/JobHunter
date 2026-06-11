@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "createdAt": "2026-05-11T21:55:38.032Z",
+    "cleanedAt": "2026-05-12T21:56:00Z",
+    "totalJobs": 24,
+    "verifiedEmails": 15,
+    "webApplies": 9,
+    "removed": {
+      "Bitpanda": 5,
+      "ConsenSys": 1
+    },
+    "removalReason": "Email applications blocked or address not found. Must use Greenhouse portal or find correct contact."
+  },
+  "methods": [
+    {
+      "jobId": "005",
+      "company": "OKX",
+      "role": "Quant Developer Rust Liquidity Platform",
+      "url": "https://web3.career/quant-developer-rust-liquidity-platform-delta-one-systematic-trading-okx/145502",
+      "applyMethod": "email",
+      "applyTarget": "careers@okx.com",
+      "verified": true
+    },
+    {
+      "jobId": "006",
+      "company": "GSRMarkets",
+      "role": "Quantitative Developer",
+      "url": "https://web3.career/quantitative-developer-gsrmarkets/105350",
+      "applyMethod": "email",
+      "applyTarget": "careers@gsrmarkets.com",
+      "verified": true
+    },
+    {
+      "jobId": "007",
+      "company": "BitMEX",
+      "role": "Senior Software Engineer Web Full Stack",
+      "url": "https://web3.career/senior-software-engineer-web-full-stack-bitmex/92818",
+      "applyMethod": "email",
+      "applyTarget": "careers@bitmex.com",
+      "verified": true
+    },
+    {
+      "jobId": "008",
+      "company": "Alpaca",
+      "role": "Senior Software Engineer Payments Treasury",
+      "url": "https://web3.career/senior-software-engineer-payments-treasury-alpaca/99657",
+      "applyMethod": "email",
+      "applyTarget": "careers@alpaca.markets",
+      "verified": true
+    },
+    {
+      "jobId": "011",
+      "company": "Uniswap Labs",
+      "role": "Senior Product Manager",
+      "url": "https://web3.career/product-manager+remote-jobs",
+      "applyMethod": "email",
+      "applyTarget": "careers@uniswap.org",
+      "verified": true
+    },
+    {
+      "jobId": "012",
+      "company": "Moralis Web3",
+      "role": "Developer Relations Engineer",
+      "url": "https://blockchain.works-hub.com/jobs/remote-developer-relations-devrel-specialist-f63",
+      "applyMethod": "email",
+      "applyTarget": "careers@moralis.io",
+      "verified": true
+    },
+    {
+      "jobId": "013",
+      "company": "Protocol Labs",
+      "role": "Senior Full Stack Engineer",
+      "url": "https://web3.career/full-stack+remote-jobs",
+      "applyMethod": "web3.career-apply",
+      "applyTarget": "https://web3.career/full-stack+remote-jobs",
+      "verified": false
+    },
+    {
+      "jobId": "014",
+      "company": "Dev.fun",
+      "role": "DevRel - Growth",
+      "url": "https://cryptojobslist.com/remote_devrel",
+      "applyMethod": "web3.career-apply",
+      "applyTarget": "https://cryptojobslist.com/remote_devrel",
+      "verified": false
+    },
+    {
+      "jobId": "015",
+      "company": "Blockchain Unmasked",
+      "role": "UI Designer Blockchain Forensics",
+      "url": "https://web3.career/ui-ux-designer-jobs",
+      "applyMethod": "web3.career-apply",
+      "applyTarget": "https://web3.career/ui-ux-designer-jobs",
+      "verified": false
+    },
+    {
+      "jobId": "016",
+      "company": "Stealth Gaming/Crypto",
+      "role": "Sr. Full Stack Developer",
+      "url": "https://web3.career/full-stack-jobs",
+      "applyMethod": "web3.career-apply",
+      "applyTarget": "https://web3.career/full-stack-jobs",
+      "verified": false
+    },
+    {
+      "jobId": "017",
+      "company": "Reap",
+      "role": "Lead Full Stack Developer",
+      "url": "https://web3.career/web3-companies/reap",
+      "applyMethod": "web3.career-apply",
+      "applyTarget": "https://web3.career/web3-companies/reap",
+      "verified": false
+    },
+    {
+      "jobId": "018",
+      "company": "Autheo",
+      "role": "Protocol/Technical Lead",
+      "url": "https://web3.career/remote-jobs",
+      "applyMethod": "web3.career-apply",
+      "applyTarget": "https://web3.career/remote-jobs",
+      "verified": false
+    },
+    {
+      "jobId": "019",
+      "company": "Autheo",
+      "role": "Developer Relations Lead",
+      "url": "https://web3.career/developer-relations-jobs",
+      "applyMethod": "web3.career-apply",
+      "applyTarget": "https://web3.career/developer-relations-jobs",
+      "verified": false
+    },
+    {
+      "jobId": "020",
+      "company": "BitGo",
+      "role": "Solidity Developer",
+      "url": "https://web3.career/remote+solidity-jobs",
+      "applyMethod": "web3.career-apply",
+      "applyTarget": "https://web3.career/remote+solidity-jobs",
+      "verified": false
+    },
+    {
+      "jobId": "021",
+      "company": "DeFi Startup (Equity)",
+      "role": "Founding Blockchain Engineer",
+      "url": "https://wellfound.com/role/solidity",
+      "applyMethod": "web3.career-apply",
+      "applyTarget": "https://wellfound.com/role/solidity",
+      "verified": false
+    },
+    {
+      "jobId": "022",
+      "company": "Stellar Foundation",
+      "role": "Senior Application Security Engineer",
+      "url": "https://cryptojobslist.com/companies/stellar-development-foundation",
+      "applyMethod": "email",
+      "applyTarget": "careers@stellar.org",
+      "verified": true
+    },
+    {
+      "jobId": "023",
+      "company": "Stellar Foundation",
+      "role": "Senior Site Reliability Engineer",
+      "url": "https://cryptojobslist.com/companies/stellar-development-foundation",
+      "applyMethod": "email",
+      "applyTarget": "careers@stellar.org",
+      "verified": true
+    },
+    {
+      "jobId": "024",
+      "company": "Chainlink Labs (Alternative Roles)",
+      "role": "Product Manager - Node Economics",
+      "url": "https://web3.career/product-manager+remote-jobs",
+      "applyMethod": "web3.career-apply",
+      "applyTarget": "https://web3.career/product-manager+remote-jobs",
+      "verified": false
+    },
+    {
+      "jobId": "025",
+      "company": "Horizenlabs / RUNX",
+      "role": "Developer Relations Engineer - Crypto & AI",
+      "url": "https://web3.career/developer-relations+remote-jobs",
+      "applyMethod": "web3.career-apply",
+      "applyTarget": "https://web3.career/developer-relations+remote-jobs",
+      "verified": false
+    },
+    {
+      "jobId": "026",
+      "company": "Turing",
+      "role": "Full Stack Developer",
+      "url": "https://www.turing.com/jobs/remote-full-stack-blockchain-engineer",
+      "applyMethod": "web3.career-apply",
+      "applyTarget": "https://www.turing.com/jobs/remote-full-stack-blockchain-engineer",
+      "verified": false
+    },
+    {
+      "jobId": "027",
+      "company": "Turing",
+      "role": "Solidity Developer",
+      "url": "https://www.turing.com/jobs/remote-solidity-developer",
+      "applyMethod": "web3.career-apply",
+      "applyTarget": "https://www.turing.com/jobs/remote-solidity-developer",
+      "verified": false
+    },
+    {
+      "jobId": "028",
+      "company": "Leading Crypto Exchange",
+      "role": "UX/UI Designer - B2C Crypto",
+      "url": "https://wellfound.com/role/r/ui-ux-designer",
+      "applyMethod": "web3.career-apply",
+      "applyTarget": "https://wellfound.com/role/r/ui-ux-designer",
+      "verified": false
+    },
+    {
+      "jobId": "029",
+      "company": "Filecoin Foundation",
+      "role": "Governance Program Manager",
+      "url": "https://careers.fil.org/jobs",
+      "applyMethod": "email",
+      "applyTarget": "careers@filecoin.foundation",
+      "verified": true
+    },
+    {
+      "jobId": "030",
+      "company": "Filecoin Foundation",
+      "role": "APAC Community Manager",
+      "url": "https://careers.fil.org/jobs",
+      "applyMethod": "email",
+      "applyTarget": "careers@filecoin.foundation",
+      "verified": true
+    }
+  ]
+}
