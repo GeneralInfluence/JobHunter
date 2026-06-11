@@ -2,8 +2,8 @@
   "metadata": {
     "repo": "https://github.com/GeneralInfluence/JobHunter.git",
     "lastSynced": "2026-06-11T00:58:14.821Z",
-    "totalApplications": 65,
-    "lastUpdated": "2026-06-11T01:20:55.099Z"
+    "totalApplications": 67,
+    "lastUpdated": "2026-06-11T01:25:00.624Z"
   },
   "applications": [
     {
@@ -717,10 +717,10 @@
       "appliedDate": "2026-02-28T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
-      "status": "pending",
+      "status": "cold",
       "type": "raidguild-proposal",
       "contact": null,
-      "notes": "Met at ETH Denver Feb 2026. Ariaz represents a private real estate investment fund seeking to tokenize its structure so retail investors gain financial exposure without voting rights. Goal: unlock liquidity for large investors while expanding retail access. Requires tokenized securities and internal operational tooling for officer sign-offs and compliance. Estimated opportunity: $20k–$30k consulting (Phase 1) + $75k–$200k development (Phase 2) + ongoing maintenance. RaidGuild would handle: due diligence, legal/technical structuring, security token smart contracts, officer approval tools. Positions RaidGuild in RWA/REIT tokenization market. (From RaidGuild ETH Denver BD Summary)"
+      "notes": "Met at ETH Denver Feb 2026. Ariaz is building DOME — a real estate investment platform. Sean followed up via X and Telegram (Mar 5, Mar 12, Mar 31), including applying for early access to DOME. No substantive proposal exchange received. Contact appears warm but unresponsive; pursuit stalled as of March 2026. Estimated opportunity if engaged: $20k–$30k consulting + $75k–$200k development (from RaidGuild ETH Denver BD Summary)."
     },
     {
       "id": "chris-mendez-ai-guitar-ethdenver-2025",
@@ -760,6 +760,32 @@
       "type": "raidguild-proposal",
       "contact": "Nick Hollins",
       "notes": "Nick Hollins co-founded a GTM firm with Alexander Guy (former growth lead at Zerion). Sean reached out April 2026 to explore whether their firm could help drive liquidity into EVRO (Gnosis stablecoin). Nick said he would run it by Alex. Status: awaiting response. Note: this is a different Nick than the Livepeer contact from DevConnect BA."
+    },
+    {
+      "id": "ixian-ramona-legal-angels-ethdenver-2025",
+      "company": "Ixian / Legal Angels",
+      "role": "Web3 Legal Engineering & Continuing Education Platform (RaidGuild)",
+      "url": null,
+      "appliedDate": "2026-02-28T00:00:00Z",
+      "appliedVia": "raidguild",
+      "emailTo": null,
+      "status": "nurturing",
+      "type": "raidguild-proposal",
+      "contact": "Ramona (@JupiterBlock)",
+      "notes": "Ongoing collaboration with Ramona at Ixian on Legal Angels — an initiative modernizing the legal profession by training \"Legal Stewards\" combining traditional law with Web3, AI, and legal engineering. Partners include LexClinic and LESA. Sean is involved in building the token-gated continuing education platform (Supabase backend) to onboard lawyers into Web3 as Phase 1 of automation. Also tied to Provenance agreement (separate work stream). Ramona confirmed still working on Ixian risk products as of June 2026; Provenance agreement cannot advance until Provenance is ready. Follow-up call scheduled. Estimated opportunity: $15k–$40k build + $5k–$20k/mo advisory; $250k+/yr long-term if Legal Angels scales. (ETH Denver BD Summary)"
+    },
+    {
+      "id": "defi-beats-bd-collab-ethdenver-2025",
+      "company": "DeFi Beats",
+      "role": "BD Collaboration & Pipeline Sharing (RaidGuild)",
+      "url": null,
+      "appliedDate": "2026-02-28T00:00:00Z",
+      "appliedVia": "raidguild",
+      "emailTo": null,
+      "status": "cold",
+      "type": "raidguild-proposal",
+      "contact": "DeFi Beats",
+      "notes": "Met at ETH Denver Feb 2026 — near miss at the main venue, briefly connected. Sean invited DeFi Beats to dinner but they were unavailable. BD collaboration and pipeline sharing discussed. Estimated opportunity: $10k–$100k in joint projects (from RaidGuild ETH Denver BD Summary). No substantive follow-up exchange after initial conference meeting."
     }
   ]
 }
