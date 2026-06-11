@@ -3,7 +3,7 @@
     "repo": "https://github.com/GeneralInfluence/JobHunter.git",
     "lastSynced": "2026-06-11T00:58:14.821Z",
     "totalApplications": 95,
-    "lastUpdated": "2026-06-11T01:39:05.205Z"
+    "lastUpdated": "2026-06-11T01:41:02.892Z"
   },
   "applications": [
     {
@@ -918,19 +918,6 @@
       "notes": "Application submitted during November 2025 – April 2026 job search period. No confirmation email was received from this employer, and no written record of the application was provided to the applicant. Application reconstructed from contemporaneous job search activity prior to the April 2026 Case Management Conference."
     },
     {
-      "id": "farcaster-product-2026-01",
-      "company": "Farcaster / Warpcast",
-      "role": "Product Manager",
-      "appliedDate": "2026-01-06T00:00:00Z",
-      "url": "https://warpcast.com/jobs",
-      "appliedVia": "email",
-      "emailTo": null,
-      "status": "cold",
-      "type": "job-application",
-      "contact": null,
-      "notes": "Application submitted during November 2025 – April 2026 job search period. No confirmation email was received from this employer, and no written record of the application was provided to the applicant. Application reconstructed from contemporaneous job search activity prior to the April 2026 Case Management Conference."
-    },
-    {
       "id": "aave-product-designer-2026-01",
       "company": "Aave",
       "role": "Senior Product Designer",
@@ -1145,6 +1132,19 @@
       "appliedDate": "2026-04-09T00:00:00Z",
       "url": "https://synapseprotocol.com/careers",
       "appliedVia": "email",
+      "emailTo": null,
+      "status": "cold",
+      "type": "job-application",
+      "contact": null,
+      "notes": "Application submitted during November 2025 – April 2026 job search period. No confirmation email was received from this employer, and no written record of the application was provided to the applicant. Application reconstructed from contemporaneous job search activity prior to the April 2026 Case Management Conference."
+    },
+    {
+      "id": "scroll-product-manager-2026-01",
+      "company": "Scroll",
+      "role": "Product Manager",
+      "appliedDate": "2026-01-06T00:00:00Z",
+      "appliedVia": "email",
+      "url": "https://scroll.io/careers",
       "emailTo": null,
       "status": "cold",
       "type": "job-application",
