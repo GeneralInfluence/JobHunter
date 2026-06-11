@@ -3,7 +3,7 @@
     "repo": "https://github.com/GeneralInfluence/JobHunter.git",
     "lastSynced": "2026-06-10T23:58:10.350Z",
     "totalApplications": 61,
-    "lastUpdated": "2026-06-11T00:00:02.899Z"
+    "lastUpdated": "2026-06-11T00:43:55.253Z"
   },
   "applications": [
     {
@@ -633,16 +633,16 @@
     },
     {
       "id": "hamz-international-proposal",
-      "company": "Hamz International",
-      "role": "Proposal Submission (RaidGuild)",
-      "url": null,
-      "appliedDate": null,
+      "company": "Hamz International (ANJUM TRADING CORPORATION)",
+      "role": "Trade Receivables Tokenization — Consulting Engagement (RaidGuild)",
+      "url": "https://hackmd.io/i-Hz5DJFTLaNDvSLIgJbQw",
+      "appliedDate": "2026-05-02T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
       "status": "pending",
       "type": "raidguild-proposal",
-      "contact": null,
-      "notes": "In-between DevConnect and ETH Denver. Provide Proposal noted. Details TBD — check Telegram/email for context."
+      "contact": "Hamza — ANJUM TRADING CORPORATION",
+      "notes": "Active consulting engagement beginning May 2026. Sean proposed a trade receivables tokenization structure for Hamz International, a commodity trading company dealing in chrome concentrate and agricultural goods (mangoes). Core proposal: a Panama SPV tokenizes the 30% balance of back-to-back trade receivables on DeFi markets, providing immediate global liquidity while Hamz retains 70% upfront. Sean addressed key risk factors including conditional payment triggers, quality rejection clauses, Incoterms clarity, and intermediary exposure. Hamza engaged substantively, asking detailed questions about LC discounting vs. tokenization and confirming conceptual alignment. Multiple calls and follow-ups conducted through May 2026. Proposal document: https://hackmd.io/i-Hz5DJFTLaNDvSLIgJbQw. Last contact June 1, 2026 — Sean following up after missed calls. Status: awaiting response."
     },
     {
       "id": "blue-vault-will-proposal",
