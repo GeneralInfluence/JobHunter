@@ -3,7 +3,7 @@
     "repo": "https://github.com/GeneralInfluence/JobHunter.git",
     "lastSynced": "2026-06-11T00:58:14.821Z",
     "totalApplications": 67,
-    "lastUpdated": "2026-06-11T01:25:00.624Z"
+    "lastUpdated": "2026-06-11T01:28:20.732Z"
   },
   "applications": [
     {
@@ -14,7 +14,7 @@
       "appliedDate": "2025-11-15T02:34:28Z",
       "appliedVia": "email",
       "emailTo": "jointheteam+designer@fetlife.com",
-      "status": "pending",
+      "status": "cold",
       "notes": "Auto-reply received. 'We will be reviewing it shortly. We can't get back to everyone.'"
     },
     {
@@ -36,7 +36,7 @@
       "appliedDate": "2026-03-31T02:39:00Z",
       "appliedVia": "ashby",
       "emailTo": null,
-      "status": "pending",
+      "status": "cold",
       "notes": "Confirmation received Mar 31 via Ashby ATS."
     },
     {
@@ -522,7 +522,7 @@
       "appliedDate": "2024-11-15T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
-      "status": "stalled",
+      "status": "cold",
       "type": "raidguild-proposal",
       "contact": "@shawmakesmagic (Shaw)",
       "notes": "Met Shaw at DevConnect BA (Nov 2025). Sean + 0xSero proposed Continuous Learning Integration for Babylon Agents. Shaw pivoted to Jeju project (https://github.com/jejunetwork/jeju). Shaw connected Sean with puncar (PM). Architecture integration sent Jan 2026. Sean followed up Feb 2026 — no response since. Status: stalled, needs re-engage. GitHub proposal exists."
@@ -535,7 +535,7 @@
       "appliedDate": "2024-11-15T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
-      "status": "pending",
+      "status": "cold",
       "type": "raidguild-proposal",
       "contact": "Nick (Livepeer)",
       "notes": "Met Nick at DevConnect BA (Nov 2025). Discussed Cohort-as-a-Service (CaaS) pricing: ~$6,300 minimum per cohort, ~$20k-$50k fully loaded. Context: RaidGuild invited Livepeer to the web0 hackathon where RaidGuild provides CaaS and advisory services to startups. Livepeer is the main sponsor of web0. RaidGuild also reportedly won a separate Livepeer bid. Follow-up scheduled for ETH Denver. Sean wanted RaidGuild house next to web0 hacker house."
@@ -548,7 +548,7 @@
       "appliedDate": "2024-11-15T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
-      "status": "pending",
+      "status": "cold",
       "type": "raidguild-proposal",
       "contact": "Hope Clary",
       "notes": "Met at DevConnect Buenos Aires. Details TBD — check Telegram for proposal context. Source: DevConnect BA 2024."
@@ -561,7 +561,7 @@
       "appliedDate": "2025-11-17T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
-      "status": "nurturing",
+      "status": "cold",
       "type": "raidguild-proposal",
       "contact": "Peter Maina | Project Mocha (@Pmprojectz)",
       "notes": "Met at DevConnect BA (Nov 17, 2025). Coffee/agriculture RWA tokenization platform. Had dinner together Nov 19 (Barreto restaurant). Sean connected him with a coffee importer. Peter said Q1 2026 fundraise planned; asked for patience on whitepaper. RaidGuild pitched as partner. Sean sent coffee futures contact. Active warm relationship — Happy Birthday message May 2026 acknowledged. Watch Q1-Q2 fundraise news."
@@ -574,7 +574,7 @@
       "appliedDate": "2024-11-15T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
-      "status": "warm-no-budget",
+      "status": "cold",
       "type": "raidguild-proposal",
       "contact": "Petra (@petrafran) — Precog / Continuous Markets",
       "notes": "Met at DevConnect BA. @OxMarto (Marto) initially engaged, then referred Sean to partner @petrafran (Petra) for continuous markets discussions (Dec 2025). Petra engaged — Precog launched new prediction market protocol (March 2026). Sean pitched RaidGuild cohort sponsorship $5k/mo or 50/50 cash/equity. Petra interested but bootstrapped, no budget. Potential future client; offered referrals to SF companies needing product feedback. From ETH Denver BD Summary: $5k-$10k/mo sponsorship potential long-term."
@@ -587,7 +587,7 @@
       "appliedDate": "2024-11-15T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
-      "status": "pending",
+      "status": "cold",
       "type": "raidguild-proposal",
       "contact": "@Zafer8",
       "notes": "Met Zaf (@Zafer8) at DevConnect Buenos Aires (Nov 2025). Discussed ZK order book collaboration. Fintradex is building a decentralized ZK parachain — whitepaper: https://github.com/fintradev/fintradex/blob/main/docs/Fintradex_Parachain_%20Technical_Architecture_Whitepaper.pdf. Sean initiated follow-up about ZK order book rabbit hole (Dec 2025). Multiple follow-up pings sent (Dec 2025). No response received."
@@ -600,7 +600,7 @@
       "appliedDate": "2025-11-15T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
-      "status": "warm",
+      "status": "cold",
       "type": "raidguild-proposal",
       "contact": "@seunlanlege — Seun Lanlege | Polytope Labs",
       "notes": "Met at DevConnect BA (Nov 2025). Polytope Labs builds ZK infrastructure — Hyperbridge (ZK cross-chain bridge). Had dinner together Nov 19 at Barreto (RaidGuild & ZK dinner). Seun mentioned he was cycling team members. Sean offered to connect on roles. Warm relationship, potential future RaidGuild project or referral. No active proposal yet."
@@ -613,7 +613,7 @@
       "appliedDate": "2024-11-15T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
-      "status": "pending",
+      "status": "cold",
       "type": "raidguild-proposal",
       "contact": "@c0mput3rxz",
       "notes": "Met at DevConnect Buenos Aires. CTO opportunity at azos Finance. Source: DevConnect BA 2024."
@@ -678,7 +678,7 @@
       "appliedDate": "2025-02-28T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
-      "status": "pending-follow-up",
+      "status": "cold",
       "type": "raidguild-proposal",
       "contact": "@redrumguerrilla — DIAL",
       "notes": "ETH Denver 2026. Dial is a wallet-native video platform. Sean pitched RaidGuild cohort sponsorship ($5k/mo April 2026) — RaidGuild builds using Dial tech, delivers comprehensive midway and final reports. Deliverables doc: https://docs.google.com/document/d/1CMXmLmEyR38apKrqcybfwsFTkaFhpMWukg8Hvh5-2Dk/edit. Pinata offered as reference (sponsored March cohort). From BD Summary: $5k–$10k/mo sponsorship + $10k–$40k integrations potential. No response since May 5 follow-up check-in."
@@ -691,7 +691,7 @@
       "appliedDate": "2025-02-28T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
-      "status": "pending",
+      "status": "cold",
       "type": "raidguild-proposal",
       "contact": null,
       "notes": "Met at ETH Denver 2025. Proposal for Pokt bridge development. Source: ETH Denver 2025."
@@ -730,7 +730,7 @@
       "appliedDate": "2026-02-28T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
-      "status": "pending",
+      "status": "cold",
       "type": "raidguild-proposal",
       "contact": "Chris Mendez (@xchrismx / X X on TG)",
       "notes": "Met at ETH Denver Feb 2026. Chris introduced WOWL.io. Mutual follow-up relationship — Sean shared music/tech content, Chris engaged positively. Chris co-wrote a song with Surfbort (released Mar 4, 2026). In May 2026, Chris shared Haptic Labs \"Festivus\" — an open-source Physical AI robotics data platform. Contact is warm and ongoing; no formal proposal issued yet. Potential collaboration on AI music/voice tooling or Physical AI integrations through RaidGuild. (From ETH Denver BD Summary: $20k–$50k prototype + $75k–$200k full build estimated if proposal moves forward)"
@@ -743,7 +743,7 @@
       "appliedDate": "2026-02-28T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
-      "status": "pending",
+      "status": "cold",
       "type": "raidguild-proposal",
       "contact": "Graven",
       "notes": "Met at ETH Denver Feb 2026. BD collaboration around public goods funding via GoodDollar and Octant grant programs. Estimated opportunity: $5k–$50k in grants with recurring quarterly/annual opportunities. (From RaidGuild ETH Denver BD Summary)"
@@ -756,7 +756,7 @@
       "appliedDate": "2026-04-02T00:00:00Z",
       "appliedVia": "raidguild",
       "emailTo": null,
-      "status": "pending",
+      "status": "cold",
       "type": "raidguild-proposal",
       "contact": "Nick Hollins",
       "notes": "Nick Hollins co-founded a GTM firm with Alexander Guy (former growth lead at Zerion). Sean reached out April 2026 to explore whether their firm could help drive liquidity into EVRO (Gnosis stablecoin). Nick said he would run it by Alex. Status: awaiting response. Note: this is a different Nick than the Livepeer contact from DevConnect BA."
