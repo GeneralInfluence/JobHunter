@@ -3,7 +3,7 @@
     "repo": "https://github.com/GeneralInfluence/JobHunter.git",
     "lastSynced": "2026-06-10T23:58:10.350Z",
     "totalApplications": 61,
-    "lastUpdated": "2026-06-11T00:43:55.253Z"
+    "lastUpdated": "2026-06-11T00:52:11.631Z"
   },
   "applications": [
     {
@@ -642,7 +642,7 @@
       "status": "pending",
       "type": "raidguild-proposal",
       "contact": "Hamza — ANJUM TRADING CORPORATION",
-      "notes": "Active consulting engagement beginning May 2026. Sean proposed a trade receivables tokenization structure for Hamz International, a commodity trading company dealing in chrome concentrate and agricultural goods (mangoes). Core proposal: a Panama SPV tokenizes the 30% balance of back-to-back trade receivables on DeFi markets, providing immediate global liquidity while Hamz retains 70% upfront. Sean addressed key risk factors including conditional payment triggers, quality rejection clauses, Incoterms clarity, and intermediary exposure. Hamza engaged substantively, asking detailed questions about LC discounting vs. tokenization and confirming conceptual alignment. Multiple calls and follow-ups conducted through May 2026. Proposal document: https://hackmd.io/i-Hz5DJFTLaNDvSLIgJbQw. Last contact June 1, 2026 — Sean following up after missed calls. Status: awaiting response."
+      "notes": "Active consulting engagement beginning May 2026. Sean proposed a trade receivables tokenization structure for Hamz International, a commodity trading company dealing in chrome concentrate and agricultural goods (mangoes). Core proposal: a Panama SPV tokenizes the 30% balance of back-to-back trade receivables on DeFi markets, providing immediate global liquidity while Hamz retains 70% upfront. Sean addressed key risk factors including conditional payment triggers, quality rejection clauses, Incoterms clarity, and intermediary exposure. Hamza engaged substantively, asking detailed questions about LC discounting vs. tokenization and confirming conceptual alignment. Multiple calls and follow-ups conducted through May 2026. Proposal document: https://hackmd.io/i-Hz5DJFTLaNDvSLIgJbQw. Last contact June 1, 2026 — Sean following up after missed calls. Status: awaiting response. Proposal scope: 4-phase project with General Influence coordinating, Ixian on legal/SPV, CNS Labs on on-chain architecture, RaidGuild building tokenization infrastructure. Budget: $4k/mo retainer + $5k legal memo + $20k on-chain architecture. Target: Chrome concentrate shipments (Africa→Asia, 1-5 month transit). Panama SPV to hold receivables and support token issuance."
     },
     {
       "id": "blue-vault-will-proposal",
